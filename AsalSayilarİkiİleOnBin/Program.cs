@@ -12,7 +12,7 @@ namespace AsalSayilarİkiİleOnBin
         {
             //int[] asalSayilar = new int[10000];
             //int sayici = 0;
-            for (int i = 3; i <= 100000; i++)
+            for (int i = 3; i <= 10000; i++)
             {
                 bool asalMi = true;
                 for (int bolen = 2; bolen < i; bolen++)
